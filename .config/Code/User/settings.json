@@ -1,0 +1,15 @@
+{
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "blink",
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.renderIndentGuides": true,
+  "editor.rulers": [100],
+  "editor.wordWrap": "on",
+  "workbench.colorTheme": "Gruvbox Dark (Medium Contrast)",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.minimap.enabled": true,
+  "editor.minimap.renderCharacters": false
+}

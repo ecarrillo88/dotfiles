@@ -8,6 +8,7 @@
   "editor.renderIndentGuides": true,
   "editor.rulers": [100],
   "editor.wordWrap": "on",
+  "editor.multiCursorModifier": "ctrlCmd",
   "workbench.colorTheme": "Gruvbox Dark (Medium Contrast)",
   "workbench.iconTheme": "vscode-icons",
   "editor.minimap.enabled": true,
